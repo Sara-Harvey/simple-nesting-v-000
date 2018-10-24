@@ -113,6 +113,8 @@ def changing_alan
     programmer_hash[:alan_kay][:known_for] = alans_new_info
 end
 
+changing_alan
+
 def adding_to_dennis
 	programmer_hash = 
  		{
